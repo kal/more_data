@@ -1,0 +1,9 @@
+﻿<http://datadock.io/kal/more_data/id/definition/computer_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Computer Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/library> <http://www.w3.org/2000/01/rdf-schema#label> "Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/month> <http://www.w3.org/2000/01/rdf-schema#label> "month"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/no_of_pcs> <http://www.w3.org/2000/01/rdf-schema#label> "No of PCs"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/type> <http://www.w3.org/2000/01/rdf-schema#label> "Type"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/visits> <http://www.w3.org/2000/01/rdf-schema#label> "visits"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/wi-fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.

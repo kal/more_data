@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/more_data/id/resource/Newcastle_Libraries_Visits.csv/row_256> <http://datadock.io/kal/more_data/id/definition/visits> "2691"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/Newcastle_Libraries_Visits.csv>.
+<http://datadock.io/kal/more_data/id/resource/Newcastle_Libraries_Visits.csv/row_784> <http://datadock.io/kal/more_data/id/definition/visits> "18084"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/Newcastle_Libraries_Visits.csv>.

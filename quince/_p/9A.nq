@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/more_data/id/dataset/newcastle_libraries_list.csv> <http://purl.org/dc/terms/title> "newcastle_libraries_list.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/newcastle_libraries_list.csv/metadata>.
+<http://datadock.io/kal/more_data/id/dataset/Newcastle_Libraries_Visits.csv> <http://purl.org/dc/terms/title> "Newcastle_Libraries_Visits.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/Newcastle_Libraries_Visits.csv/metadata>.
