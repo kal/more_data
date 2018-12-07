@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/more_data/id/resource/newcastleLibrariesVisits/row_1491> <http://datadock.io/kal/more_data/id/definition/month> "2014-10"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesVisits>.
+<http://datadock.io/kal/more_data/id/resource/newcastleLibrariesVisits/row_1491> <http://datadock.io/kal/more_data/id/definition/visits> "14746"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesVisits>.
