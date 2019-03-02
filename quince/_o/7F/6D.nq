@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/more_data/id/resource/monument_record_no/1111M> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.455778"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentsLatlongcsv>.
+<http://datadock.io/kal/more_data/id/resource/monument_record_no/441M> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.456111"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentsLatlongcsv>.

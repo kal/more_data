@@ -55,3 +55,5 @@
 <http://datadock.io/kal/more_data/id/definition/visits> <http://www.w3.org/2000/01/rdf-schema#label> "visits"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/wi_fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/wi-fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://www.w3.org/2003/01/geo/wgs84_pos#lat> <http://www.w3.org/2000/01/rdf-schema#label> "LATITUDE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://www.w3.org/2003/01/geo/wgs84_pos#long> <http://www.w3.org/2000/01/rdf-schema#label> "LONGITUDE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
