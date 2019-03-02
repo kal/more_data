@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/resource/bristolMonuments/monument_record_no/2514M> <http://datadock.io/kal/data_dev/id/definition/monument_record_no> "2514M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/kal/data_dev/id/resource/bristolMonuments/monument_record_no/40M> <http://datadock.io/kal/data_dev/id/definition/amended> "35250"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.
