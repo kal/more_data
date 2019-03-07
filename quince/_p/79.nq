@@ -21,7 +21,6 @@
 <http://datadock.io/kal/data_dev/id/definition/postal_address> <http://www.w3.org/2000/01/rdf-schema#label> "POSTAL_ADDRESS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/roof> <http://www.w3.org/2000/01/rdf-schema#label> "ROOF"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/storeys> <http://www.w3.org/2000/01/rdf-schema#label> "STOREYS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
-<http://datadock.io/kal/more_data/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Kal Ahmed" <http://datadock.io/kal/more_data/metadata>.
 <http://datadock.io/kal/more_data/id/definition/amended> <http://www.w3.org/2000/01/rdf-schema#label> "AMENDED"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/bays> <http://www.w3.org/2000/01/rdf-schema#label> "BAYS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/broad_term> <http://www.w3.org/2000/01/rdf-schema#label> "BROAD_TERM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
@@ -35,6 +34,11 @@
 <http://datadock.io/kal/more_data/id/definition/known_as> <http://www.w3.org/2000/01/rdf-schema#label> "KNOWN_AS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/library> <http://www.w3.org/2000/01/rdf-schema#label> "Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/line_colour> <http://www.w3.org/2000/01/rdf-schema#label> "line_colour"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/line_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/line_name_french> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/line_name> <http://www.w3.org/2000/01/rdf-schema#label> "line name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/definition/line> <http://www.w3.org/2000/01/rdf-schema#label> "line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/listed_building_grade> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_GRADE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/listed_building_no> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/location_1> <http://www.w3.org/2000/01/rdf-schema#label> "Location 1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
