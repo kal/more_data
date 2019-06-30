@@ -379,6 +379,10 @@
 <http://datadock.io/kal/data_dev/id/resource/bristolMonuments/monument_record_no/90M> <http://datadock.io/kal/data_dev/id/definition/postal_address> "16-20 Penn Street"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.
 <http://datadock.io/kal/data_dev/id/resource/bristolMonuments/monument_record_no/90M> <http://datadock.io/kal/data_dev/id/definition/roof> "Gabled"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.
 <http://datadock.io/kal/more_data/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <http://datadock.io/kal/more_data/metadata>.
+<http://datadock.io/kal/more_data/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Kal Ahmed" <http://datadock.io/kal/more_data/metadata>.
+<http://datadock.io/kal/more_data/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <https://techquila.com/> <http://datadock.io/kal/more_data/metadata>.
+<http://datadock.io/kal/more_data/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "kal@techquila.com" <http://datadock.io/kal/more_data/metadata>.
+<http://datadock.io/kal/more_data/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Kal Ahmed" <http://datadock.io/kal/more_data/metadata>.
 <http://datadock.io/kal/more_data/id/resource/monument_record_no/1255M> <http://datadock.io/kal/more_data/id/definition/amended> "36102"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.
 <http://datadock.io/kal/more_data/id/resource/monument_record_no/1255M> <http://datadock.io/kal/more_data/id/definition/broad_term> "Railway transport site"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.
 <http://datadock.io/kal/more_data/id/resource/monument_record_no/1255M> <http://datadock.io/kal/more_data/id/definition/class> "Transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentscsv>.

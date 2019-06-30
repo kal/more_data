@@ -21,6 +21,7 @@
 <http://datadock.io/kal/data_dev/id/definition/postal_address> <http://www.w3.org/2000/01/rdf-schema#label> "POSTAL_ADDRESS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/roof> <http://www.w3.org/2000/01/rdf-schema#label> "ROOF"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/storeys> <http://www.w3.org/2000/01/rdf-schema#label> "STOREYS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
+<http://datadock.io/kal/more_data/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Kal Ahmed" <http://datadock.io/kal/more_data/metadata>.
 <http://datadock.io/kal/more_data/id/definition/amended> <http://www.w3.org/2000/01/rdf-schema#label> "AMENDED"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/bays> <http://www.w3.org/2000/01/rdf-schema#label> "BAYS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
 <http://datadock.io/kal/more_data/id/definition/broad_term> <http://www.w3.org/2000/01/rdf-schema#label> "BROAD_TERM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/definitions>.
