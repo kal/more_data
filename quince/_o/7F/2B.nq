@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/more_data/id/resource/monument_record_no/2667M> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-2.5996276"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/more_data/id/dataset/bristolMonumentsLatlongcsv>.
-<http://datadock.io/kal/more_data/id/resource/newcastleLibrariesVisits/row_380> <http://datadock.io/kal/more_data/id/definition/visits> "92"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesVisits>.
+﻿<http://datadock.io/kal/more_data/id/resource/newcastleLibrariesVisits/row_380> <http://datadock.io/kal/more_data/id/definition/visits> "92"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesVisits>.
