@@ -4,4 +4,3 @@
 <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesList> <http://rdfs.org/ns/void#triples> "91"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesList/metadata>.
 <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesListcsv> <http://rdfs.org/ns/void#triples> "91"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesListcsv/metadata>.
 <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesVisits> <http://rdfs.org/ns/void#triples> "5169"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/newcastleLibrariesVisits/metadata>.
-<http://datadock.io/kal/more_data/id/dataset/tokyoMetroLinescsv> <http://rdfs.org/ns/void#triples> "50"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/more_data/id/dataset/tokyoMetroLinescsv/metadata>.
